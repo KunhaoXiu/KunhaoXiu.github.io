@@ -28,32 +28,44 @@ cv:
 
       - institution: Hebei University of Technology
         location: Tianjin, China
-        area: Mechanical Engineering
+        area: Electronic Information Engineering
         studyType: PhD
         start_date: 2023
         end_date: 2021
 
       - institution: Hebei University of Technology
         location: Tianjin, China
-        area: Mechanical Engineering
+        area: Electronic Information Engineering
         studyType: PhD
         start_date: 2021
         end_date: 2017
 
     Awards:
+
+      - title: First-class Scholarship in School
+        authors:
+          - "Hebei University of Technology"
+        date: 2025
+        summary: "Awarded for outstanding student performance in the school"
+
       - title: First-class Scholarship in School
         authors:
           - "Hebei University of Technology"
         date: 2024
-        # awarder: Royal Swedish Academy of Sciences
-        # url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: ""
+        summary: "Awarded for outstanding student performance in the school"
 
-        # authors:
-        #   - "Hebei University of Technology"
-        # date: 2029
-        # awarder: German Physical Society
-        # summary: Awarded for outstanding scientific achievement
+      - title: First-class Scholarship in School
+        authors:
+          - "Hebei University of Technology"
+        date: 2023
+        summary: "Awarded for outstanding student performance in the school"
+
+      - title: First-class Scholarship in School
+        authors:
+          - "Hebei University of Technology"
+        date: 2021
+        summary: "Awarded for outstanding student performance in the school"
+
 
     # Publications:
     #   - title: Zur Elektrodynamik bewegter Körper
@@ -93,21 +105,21 @@ cv:
         icon: fa-solid fa-tag
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
+    # Certificates:
+    #   - name: Machine Learning
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
+    #   - name: Quantum Computing
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-tag
 
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+    #   - name: Quantum Information
+    #     date: 2018-01-01
+    #     issuer: Stanford University
+    #     icon: fa-solid fa-envelope
 
     Projects:
       - name: Quantum Computing
