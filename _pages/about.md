@@ -25,11 +25,12 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-我是修坤皓，现就读于河北工业大学，目前正在攻读机械工程博士学位。
 
-主要研究方向为面向可穿戴传感的运动识别与重构，聚焦于基于可穿戴传感器的人体运动捕捉、识别与分析方法研究，并致力于其在医学健康领域的应用。
+My name is Xiu Kunhao. I am currently a doctoral student in Mechanical Engineering at Hebei University of Technology.
 
+My primary research focuses on motion recognition and reconstruction for wearable sensors, with an emphasis on methods for human motion capture, recognition, and analysis using wearable sensors. I am also dedicated to exploring their applications in the medical and health fields.
 
-如果您对这些领域有兴趣或在相关领域有专业知识，我很愿意与您交流。请随时通过邮箱联系我。
+If you are interested in these areas or have expertise in related fields, I would be delighted to discuss them with you. Please feel free to contact me via email at any time.
+
 
 Email：xiukunhao@163.com
