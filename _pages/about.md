@@ -1,8 +1,8 @@
 ---
 layout: about
-title: titles.about
+title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. Hebei University of Technology. 
 
 profile:
   align: right
@@ -26,5 +26,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-修坤皓，现就读于河北工业大学，攻读机械工程博士学位。主要研究方向为面向可穿戴传感的运动识别与重构，聚焦于基于可穿戴传感器的人体运动捕捉、识别与分析方法研究，并致力于其在医学健康领域的应用。
+我是修坤皓，现就读于河北工业大学，目前正在攻读机械工程博士学位。
+
+主要研究方向为面向可穿戴传感的运动识别与重构，聚焦于基于可穿戴传感器的人体运动捕捉、识别与分析方法研究，并致力于其在医学健康领域的应用。
 
