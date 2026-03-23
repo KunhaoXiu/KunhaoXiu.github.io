@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 修坤皓
+title: titles.about
 permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>河北工业大学 </p>
+  
+
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,5 +26,5 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-我是修坤皓，目前在就读于河北工业大学攻读机械工程博士学位。我研究方向是面向可穿戴传感的运动识别与重构研究，科研主要聚焦在基于可穿戴传感器件进行人体运动捕捉、识别与分析的研究并应用在医学健康领域。
+修坤皓，现就读于河北工业大学，攻读机械工程博士学位。主要研究方向为面向可穿戴传感的运动识别与重构，聚焦于基于可穿戴传感器的人体运动捕捉、识别与分析方法研究，并致力于其在医学健康领域的应用。
 
