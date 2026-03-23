@@ -25,8 +25,8 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 我是修坤皓，现就读于河北工业大学，目前正在攻读机械工程博士学位。
 
 主要研究方向为面向可穿戴传感的运动识别与重构，聚焦于基于可穿戴传感器的人体运动捕捉、识别与分析方法研究，并致力于其在医学健康领域的应用。
 
+Email：xiukunhao@163.com
