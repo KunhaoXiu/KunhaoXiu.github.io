@@ -24,7 +24,8 @@ cv:
         courses: "Motion Capture with Wearable"
         highlights:
           - Human Activity Recognition.
-          - HUman Pose Estimation.
+          - Human Pose Estimation.
+          - Wearable sensors.
 
       - institution: Hebei University of Technology
         location: Tianjin, China
