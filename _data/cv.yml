@@ -17,7 +17,7 @@ cv:
       - institution: Hebei University of Technology
         location: Tianjin, China
         area: Mechanical Engineering
-        studyType: PhD
+        studyType: Ph.D
         start_date: 2023
         end_date: 2027
         score: ""
@@ -30,14 +30,14 @@ cv:
       - institution: Hebei University of Technology
         location: Tianjin, China
         area: Electronic Information Engineering
-        studyType: PhD
+        studyType: MS
         start_date: 2023
         end_date: 2021
 
       - institution: Hebei University of Technology
         location: Tianjin, China
         area: Electronic Information Engineering
-        studyType: PhD
+        studyType: BS
         start_date: 2021
         end_date: 2017
 
