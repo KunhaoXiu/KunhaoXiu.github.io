@@ -405,7 +405,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-work-deep-learning-enabled-multifunctional-electronic-skin-system-for-human-activity-recognition-and-sign-language-translation-has-been-accepted-by-smartmat-2025",
+            },},{id: "news-2023全国功能材料与器件大会作专题报告-题目为-二维碳基功能材料与柔性器件研究",
+          title: '2023全国功能材料与器件大会作专题报告，题目为：二维碳基功能材料与柔性器件研究。',
+          description: "",
+          section: "News",},{id: "news-面向脑卒中针灸康复诊疗中针刺手法与反馈信号量效关系的生物电信号采集系统-荣获2024年第九届全国大学生生物医学工程创新设计竞赛二等奖",
+          title: '《面向脑卒中针灸康复诊疗中针刺手法与反馈信号量效关系的生物电信号采集系统》荣获2024年第九届全国大学生生物医学工程创新设计竞赛二等奖',
+          description: "",
+          section: "News",},{id: "news-基于深度学习的多模态可穿戴自适应康复手套-荣获2025年第十届全国大学生生物医学工程创新设计竞赛二等奖",
+          title: '《基于深度学习的多模态可穿戴自适应康复手套》荣获2025年第十届全国大学生生物医学工程创新设计竞赛二等奖',
+          description: "",
+          section: "News",},{id: "news-our-work-deep-learning-enabled-multifunctional-electronic-skin-system-for-human-activity-recognition-and-sign-language-translation-has-been-accepted-by-smartmat-2025",
           title: 'Our work (Deep Learning‐Enabled Multifunctional Electronic Skin System for Human Activity Recognition and...',
           description: "",
           section: "News",},{id: "projects-project-1",
