@@ -18,7 +18,7 @@ cv:
         start_date: "2023-09"
         end_date: "2027-06"
         score: ""
-        courses: "Motion Capture with Wearable"
+        courses: "Deep Learning–Assisted Motion Capture with Wearables"
         highlights:
           - Human Activity Recognition.
           - Human Pose Estimation.
@@ -89,7 +89,7 @@ cv:
         details: "SolidWorks, Fusion 360, wearable structures, 3D printing, CNC machining, laser cutting, and FEA"
 
       - label: Programming & Tools
-        details: "Python (PyTorch, TensorFlow, Keras, scikit-learn, NumPy, SciPy, Pandas), MATLAB/Simulink, C/C++, ROS, Git, Linux, and LaTeX"
+        details: "Python (PyTorch, TensorFlow, Keras, scikit-learn, NumPy, SciPy, Pandas), MATLAB/Simulink, C/C++, ROS, Git,and Linux"
 
     Interests:
       - label: Wearable Sensing
