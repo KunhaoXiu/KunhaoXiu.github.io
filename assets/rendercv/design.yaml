@@ -5,3 +5,5 @@ design:
     size: a4
     show_footer: false
     show_top_note: false
+  templates:
+    single_date: YEAR.MONTH_IN_TWO_DIGITS

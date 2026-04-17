@@ -15,8 +15,8 @@ cv:
         location: Tianjin, China
         area: Mechanical Engineering
         studyType: Ph.D
-        start_date: "2023.09"
-        end_date: "2027.06"
+        start_date: "2023-09"
+        end_date: "2027-06"
         score: ""
         courses: "Motion Capture with Wearable"
         highlights:
@@ -28,40 +28,40 @@ cv:
         location: Tianjin, China
         area: Electronic Information Engineering
         studyType: MS
-        start_date: "2021.09"
-        end_date: "2023.06"
+        start_date: "2021-09"
+        end_date: "2023-06"
 
       - institution: Hebei University of Technology
         location: Tianjin, China
         area: Electronic Information Engineering
         studyType: BS
-        start_date: "2017.09"
-        end_date: "2021.06"
+        start_date: "2017-09"
+        end_date: "2021-06"
 
     Awards:
 
       - title: First-class Scholarship in School
         authors:
           - "Hebei University of Technology"
-        date: "2025"
+        date: 2025
         summary: "Awarded for outstanding student performance in the school"
 
       - title: First-class Scholarship in School
         authors:
           - "Hebei University of Technology"
-        date: "2024"
+        date: 2024
         summary: "Awarded for outstanding student performance in the school"
 
       - title: First-class Scholarship in School
         authors:
           - "Hebei University of Technology"
-        date: "2023"
+        date: 2023
         summary: "Awarded for outstanding student performance in the school"
 
       - title: First-class Scholarship in School
         authors:
           - "Hebei University of Technology"
-        date: "2021"
+        date: 2021
         summary: "Awarded for outstanding student performance in the school"
 
 
