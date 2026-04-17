@@ -29,7 +29,7 @@ My name is Xiu Kunhao. I am currently a doctoral student in Mechanical Engineeri
 
 My primary research focuses on motion recognition and reconstruction for wearable sensors, with an emphasis on methods for human motion capture, recognition, and analysis using wearable sensors. I am also dedicated to exploring their applications in the medical and health fields.
 
-If you are interested in these areas or have expertise in related fields, I would be delighted to discuss them with you. Please feel free to contact me via email at any time.
+**Open to collaborations on wearable sensing and digital health. Feel free to reach out!**
 
 
 我叫修坤皓，目前是河北工业大学机械工程专业的博士研究生。
