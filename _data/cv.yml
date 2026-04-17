@@ -67,39 +67,36 @@ cv:
 
 
     Skills:
-      - label: Time-Series Deep Learning
-        details: "CNN, LSTM, GRU, and Transformer models for wearable and multivariate sensor data analysis"
+      - label: Wearable Motion Capture (IMU-based)
+        details: "Full-body pose reconstruction from sparse IMU sensors; handling sensor noise, drift, and calibration issues"
 
       - label: Motion Understanding
-        details: "Human pose estimation, motion prediction, activity recognition, and gesture classification"
+        details: "Fusion of IMU with EMG and pressure signals for robust human motion understanding"
 
-      - label: Representation Learning
+      - label: Multimodal Sensor Fusion
         details: "Self-supervised and contrastive learning methods for sensor-driven modeling"
 
-      - label: Deployment & Optimization
-        details: "TensorRT, ONNX, and edge AI workflows for efficient model deployment"
+      - label: Real-Time Systems and Edge Deployment
+        details: "Low-latency inference pipelines with ONNX/TensorRT; experience in real-time wearable systems"
 
-      - label: Sensor Systems
-        details: "IMU, EMG, pressure sensors, multi-modal fusion, and real-time acquisition pipelines"
+      - label: Representation Learning for Sensor Data
+        details: "Self-supervised and contrastive learning for invariant and cross-modal representations"
 
-      - label: Signal Processing & Embedded Systems
-        details: "Filtering, segmentation, feature engineering, STM32, ESP32, Raspberry Pi, and wireless sensing"
+      - label: Programming
+        details: "Python (PyTorch, NumPy, SciPy), C/C++, MATLAB, Linux, ROS"
 
-      - label: Mechanical Design & Prototyping
+      - label: Mechanical Design and Fabrication
         details: "SolidWorks, Fusion 360, wearable structures, 3D printing, CNC machining, laser cutting, and FEA"
 
-      - label: Programming & Tools
-        details: "Python (PyTorch, TensorFlow, Keras, scikit-learn, NumPy, SciPy, Pandas), MATLAB/Simulink, C/C++, ROS, Git,and Linux"
-
     Interests:
-      - label: Wearable Sensing
-        details: "Wearable sensing systems, multimodal fusion, and intelligent interfaces for human motion analysis"
+      - label: Human Motion Modeling
+        details: "Learning-based motion reconstruction, pose estimation, and temporal prediction from sparse and noisy wearable sensor data"
 
-      - label: Motion Intelligence
-        details: "Human activity recognition, gesture understanding, pose estimation, and motion prediction"
+      - label: Wearable Sensing Systems
+        details: "Design of IMU-centric and multimodal sensing systems for human motion capture, with a focus on sensor fusion, calibration, and real-time data acquisitionn"
 
-      - label: Efficient AI for Healthcare
-        details: "Self-supervised learning and edge AI for real-time rehabilitation and health monitoring applications"
+      - label: Efficient Learning for Wearable Motion Intelligence
+        details: "Self-supervised representation learning and low-latency edge inference for real-time motion analysis in rehabilitation and health monitoring"
 
 
     Projects:
