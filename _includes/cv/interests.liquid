@@ -9,7 +9,7 @@
         {% if entry.icon %}
           <i class="{{ entry.icon }}"></i>
         {% endif %}
-        <strong>{{ entry.name }}:</strong>
+        <strong>{{ entry.name | default: entry.label }}:</strong>
       </div>
       {% if entry.keywords %}
         <ul class="interest-keywords mb-0">
@@ -17,6 +17,8 @@
             <li>{{ keyword }}</li>
           {% endfor %}
         </ul>
+      {% elsif entry.details %}
+        <p class="interest-details mb-0">{{ entry.details }}</p>
       {% endif %}
     </div>
   {% endfor %}
@@ -24,15 +26,30 @@
 
 <style>
   .interest-item {
-    padding: 0.5rem 0;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
   }
 
   .interest-heading {
-    margin-bottom: 0.35rem;
+    margin-bottom: 0.4rem;
   }
 
   .interest-keywords {
     margin-left: 1.5rem;
     padding-left: 1rem;
+  }
+
+  .interest-keywords li {
+    margin-bottom: 0.35rem;
+    line-height: 1.5;
+  }
+
+  .interest-details {
+    line-height: 1.6;
+    color: rgba(0, 0, 0, 0.78);
+  }
+
+  .interest-item:last-child {
+    border-bottom: 0;
   }
 </style>

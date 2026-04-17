@@ -10,7 +10,7 @@
           <i class="{{ entry.icon }}"></i>
         {% endif %}
         <strong>
-          {{- entry.name -}}
+          {{- entry.name | default: entry.label -}}
           {%- if entry.level %} ({{ entry.level }}){% endif %}:</strong
         >
       </div>
@@ -20,6 +20,8 @@
             <li>{{ keyword }}</li>
           {% endfor %}
         </ul>
+      {% elsif entry.details %}
+        <p class="skill-details mb-0">{{ entry.details }}</p>
       {% endif %}
     </div>
   {% endfor %}
@@ -27,15 +29,30 @@
 
 <style>
   .skill-item {
-    padding: 0.5rem 0;
+    padding: 0.75rem 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.06);
   }
 
   .skill-heading {
-    margin-bottom: 0.35rem;
+    margin-bottom: 0.4rem;
   }
 
   .skill-keywords {
     margin-left: 1.5rem;
     padding-left: 1rem;
+  }
+
+  .skill-keywords li {
+    margin-bottom: 0.35rem;
+    line-height: 1.5;
+  }
+
+  .skill-details {
+    line-height: 1.6;
+    color: rgba(0, 0, 0, 0.78);
+  }
+
+  .skill-item:last-child {
+    border-bottom: 0;
   }
 </style>
