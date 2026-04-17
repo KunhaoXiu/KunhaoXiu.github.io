@@ -35,6 +35,6 @@ I am Xiu Kunhao, a doctoral student in Mechanical Engineering at Hebei Universit
 
 My research focuses on human motion capture, recognition, and analysis using wearable sensors. Specific areas include motion recognition and reconstruction algorithms for wearable sensors, deep learning-based multimodal data fusion algorithms, and the fabrication of high-performance flexible strain and pressure sensors. I am dedicated to applying these technologies to medical rehabilitation, sports monitoring, and other health-related fields, aiming to achieve smarter and more human-centered human-computer interaction.
 
-**If you are interested in this direction or have expertise in related fields, I would be very happy to connect and discuss. Please feel free to reach out via email**
+If you are interested in this direction or have expertise in related fields, I would be very happy to connect and discuss. Please feel free to reach out via email
 
-Email：xiukunhao@163.com
+### **Email：xiukunhao@163.com**
