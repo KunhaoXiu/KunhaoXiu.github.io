@@ -37,4 +37,4 @@ My research focuses on human motion capture, recognition, and analysis using wea
 
 If you are interested in this direction or have expertise in related fields, I would be very happy to connect and discuss. Please feel free to reach out via email
 
-### **Email：xiukunhao@163.com**
+#### **Email：xiukunhao@163.com**
