@@ -30,7 +30,22 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{
+        },{id: "news-2020年第七届-大唐杯-全国大学生移动通信5g技术大赛天津赛区省级三等奖",
+          title: '2020年第七届“大唐杯”全国大学生移动通信5G技术大赛天津赛区省级三等奖',
+          description: "",
+          section: "News",},{id: "news-应邀于2023年全国功能材料与器件大会作题为-二维碳基功能材料与柔性器件研究-的专题报告",
+          title: '应邀于2023年全国功能材料与器件大会作题为“二维碳基功能材料与柔性器件研究”的专题报告。',
+          description: "",
+          section: "News",},{id: "news-我们的工作-面向脑卒中针灸康复诊疗中针刺手法与反馈信号量效关系的生物电信号采集系统-荣获2024年第九届全国大学生生物医学工程创新设计竞赛二等奖",
+          title: '我们的工作《面向脑卒中针灸康复诊疗中针刺手法与反馈信号量效关系的生物电信号采集系统》荣获2024年第九届全国大学生生物医学工程创新设计竞赛二等奖',
+          description: "",
+          section: "News",},{id: "news-我们的工作-基于深度学习的多模态可穿戴自适应康复手套-荣获2025年第十届全国大学生生物医学工程创新设计竞赛二等奖",
+          title: '我们的工作《基于深度学习的多模态可穿戴自适应康复手套》荣获2025年第十届全国大学生生物医学工程创新设计竞赛二等奖',
+          description: "",
+          section: "News",},{id: "news-我们的工作-deep-learning-enabled-multifunctional-electronic-skin-system-for-human-activity-recognition-and-sign-language-translation-已被-smartmat-2025-接受",
+          title: '我们的工作 (Deep Learning‐Enabled Multifunctional Electronic Skin System for Human Activity Recognition and Sign...',
+          description: "",
+          section: "News",},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
