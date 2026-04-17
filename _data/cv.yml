@@ -3,7 +3,7 @@ cv:
   email: xiukunhao@163.com
   location: Hebei University of Technology, Tianjin, China
   image: ""
-  summary: ""
+  summary: "Ph.D. student in Mechanical Engineering at Hebei University of Technology, with research interests in wearable sensing, human activity recognition, human pose estimation, and multimodal sensor fusion. My work focuses on combining deep learning and biomechanical signal analysis to build intelligent systems for motion understanding, health-related monitoring, and real-time wearable applications."
   social_networks:
     - network: X
       username: Kunhao Xiu
@@ -31,15 +31,15 @@ cv:
         location: Tianjin, China
         area: Electronic Information Engineering
         studyType: MS
-        start_date: 2023
-        end_date: 2021
+        start_date: 2021
+        end_date: 2023
 
       - institution: Hebei University of Technology
         location: Tianjin, China
         area: Electronic Information Engineering
         studyType: BS
-        start_date: 2021
-        end_date: 2017
+        start_date: 2017
+        end_date: 2021
 
     Awards:
 
