@@ -33,7 +33,7 @@ latest_posts:
 
 I am Kunhao Xiu, a doctoral student in Mechanical Engineering at Hebei University of Technology.
 
-My research focuses on human motion capture, recognition, and analysis using wearable sensors. Specific topics include semantic recognition of human actions with wearable sensors (IMU, strain, pressure, and EMG)**, **3D motion capture algorithms from sparse wearable sensors**, **deep learning-based multimodal data fusion, and the fabrication of high-performance flexible strain and pressure sensors.
+My research focuses on human motion capture, recognition, and analysis using wearable sensors. Specific topics include **semantic recognition of human actions with wearable sensors (IMU, strain, pressure, and EMG)**, **3D motion capture algorithms from sparse wearable sensors**, **deep learning-based multimodal data fusion**, and **the fabrication of high-performance flexible strain and pressure sensors**.
 
 I am committed to applying these technologies to health-related domains such as medical rehabilitation and sports monitoring, toward more intelligent and more human-centered human-computer interaction. If you are interested in this direction or have relevant expertise, I would be glad to connect; please feel free to reach out by email.
 
